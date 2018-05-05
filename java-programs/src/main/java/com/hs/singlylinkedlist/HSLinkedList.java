@@ -165,6 +165,9 @@ public class HSLinkedList
     	}
     }
     
+    /**
+     * Prints all elements of the list
+     */
     public void printAll()
     {
     	//Process only if the list is non-empty
