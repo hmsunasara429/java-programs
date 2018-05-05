@@ -3,8 +3,8 @@
  */
 package com.hs.java.test;
 
-import com.hs.java.HSElement;
-import com.hs.java.HSLinkedList;
+import com.hs.singlylinkedlist.HSElement;
+import com.hs.singlylinkedlist.HSLinkedList;
 
 /**
  * Main class to test the java programs

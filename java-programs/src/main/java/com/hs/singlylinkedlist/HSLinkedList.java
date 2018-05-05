@@ -1,4 +1,4 @@
-package com.hs.java;
+package com.hs.singlylinkedlist;
 
 /**
  * This class is the implementation of the singly LinkeList with limited functions.
