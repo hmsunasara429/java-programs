@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.hs.java.test;
+package com.hs.main;
 
 import com.hs.singlylinkedlist.HSElement;
 import com.hs.singlylinkedlist.HSLinkedList;
